@@ -1,0 +1,26 @@
+[
+  {
+    "repository" : "LineageOS/android_device_oppo_common",
+    "target_path": "device/oppo/common",
+    "branch"     : "lineage-15.1"
+  },
+  {
+    "repository" : "LineageOS/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch"     : "staging/lineage-15.1"
+  },
+  {
+    "repository" : "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch"     : "staging/lineage-15.1"
+  },
+  {
+    "repository" : "kernel_oneplus_msm8996",
+    "target_path": "kernel/oneplus/msm8996"
+  },
+  {
+    "repository" : "TheMuppets/proprietary_vendor_oneplus",
+    "target_path": "vendor/oneplus",
+    "branch"     : "lineage-15.1"
+  }
+]
