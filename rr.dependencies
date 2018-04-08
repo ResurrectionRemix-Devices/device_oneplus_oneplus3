@@ -1,8 +1,7 @@
 [
   {
-    "repository" : "LineageOS/android_device_oppo_common",
-    "target_path": "device/oppo/common",
-    "branch"     : "lineage-15.1"
+    "repository" : "android_device_oppo_common",
+    "target_path": "device/oppo/common"
   },
   {
     "repository" : "LineageOS/android_device_qcom_common",
