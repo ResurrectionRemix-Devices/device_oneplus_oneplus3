@@ -27,6 +27,8 @@ $(call inherit-product, vendor/rr/config/common_full_phone.mk)
 VENDOR_SECURITY_PATCH := 2019-10-01
 
 TARGET_FACE_UNLOCK_SUPPORTED := true
+TARGET_BOOT_ANIMATION_RES := 1080
+RR_BUILDTYPE := Official
 
 PRODUCT_NAME := rr_oneplus3
 PRODUCT_DEVICE := oneplus3
