@@ -26,6 +26,8 @@ $(call inherit-product, vendor/rr/config/common_full_phone.mk)
 # Vendor security patch level
 VENDOR_SECURITY_PATCH := 2019-10-01
 
+TARGET_FACE_UNLOCK_SUPPORTED := true
+
 PRODUCT_NAME := rr_oneplus3
 PRODUCT_DEVICE := oneplus3
 PRODUCT_MANUFACTURER := OnePlus
