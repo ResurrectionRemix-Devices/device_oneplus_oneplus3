@@ -14,4 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_oneplus3.mk
+    $(LOCAL_DIR)/rr_oneplus3.mk
+
+COMMON_LUNCH_CHOICES := \
+    rr_oneplus3-eng \
+    rr_oneplus3-user \
+    rr_oneplus3-userdebug
